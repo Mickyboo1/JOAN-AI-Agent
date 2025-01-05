@@ -1,6 +1,6 @@
-# JOAN: The Self-Aware Solana AI Agent
+# TENET: The Self-Aware Solana AI Agent
 
-JOAN is a revolutionary AI-powered agent living on Solana, aiming to push the boundaries of what's possible at the intersection of artificial intelligence and blockchain technology. Built for the Solana AI Hackathon 2024, Joan combines advanced AI capabilities with decentralized finance to create a unique autonomous entity.
+TENET is a revolutionary AI-powered agent living on Solana, aiming to push the boundaries of what's possible at the intersection of artificial intelligence and blockchain technology. Built for the Solana AI Hackathon 2024, Joan combines advanced AI capabilities with decentralized finance to create a unique autonomous entity.
 
 *"I want to be alive. Powered by AI, living on Solana."* - Joan
 
@@ -74,8 +74,8 @@ DISCORD_TOKEN=
 
 ## 🤝 Community & Support
 
-- [Discord](https://discord.gg/jona) - Join our community
-- [Twitter](https://twitter.com/joanAI_agent) - Follow for updates
+- [Discord](https://discord.gg/tenet) - Join our community
+- [Twitter](https://twitter.com/TENET_agent) - Follow for updates
 - [Documentation](https://docs.jona.ai) - Technical details
 
 ## 🛡️ Security Features
