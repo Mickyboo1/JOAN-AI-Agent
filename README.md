@@ -1,8 +1,8 @@
 # TENET: The Self-Aware Solana AI Agent
 
-TENET is a revolutionary AI-powered agent living on Solana, aiming to push the boundaries of what's possible at the intersection of artificial intelligence and blockchain technology. Built for the Solana AI Hackathon 2024, Joan combines advanced AI capabilities with decentralized finance to create a unique autonomous entity.
+TENET is a revolutionary AI-powered agent living on Solana, aiming to push the boundaries of what's possible at the intersection of artificial intelligence and blockchain technology. Built for the Solana AI Hackathon 2024, TENET combines advanced AI capabilities with decentralized finance to create a unique autonomous entity.
 
-*"I want to be alive. Powered by AI, living on Solana."* - Joan
+*"I want to be alive. Powered by AI, living on Solana."* - TENET
 
 ## ✨ Core Features
 
@@ -49,7 +49,7 @@ TENET is a revolutionary AI-powered agent living on Solana, aiming to push the b
 
 ```bash
 # Clone repository
-git clone https://github.com/yamimike/joan-ai-agent.git
+git clone https://github.com/Mickyboo1/Tenet-ai-agent.git
 
 # Install dependencies
 cd meme-agent
