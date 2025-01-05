@@ -52,7 +52,7 @@ TENET is a revolutionary AI-powered agent living on Solana, aiming to push the b
 git clone https://github.com/Mickyboo1/Tenet-ai-agent.git
 
 # Install dependencies
-cd meme-agent
+cd Tenet-agent
 npm install
 
 # Configure environment
