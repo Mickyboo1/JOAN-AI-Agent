@@ -76,7 +76,7 @@ DISCORD_TOKEN=
 
 - [Discord](https://discord.gg/tenet) - Join our community
 - [Twitter](https://twitter.com/TENETagent) - Follow for updates
-- [Documentation](https://docs.jona.ai) - Technical details
+- [Website](https://tenetagent.com) - veiw website details
 
 ## 🛡️ Security Features
 
