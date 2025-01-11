@@ -1,4 +1,4 @@
-# TENET: The Self-Aware Solana AI Agent
+# TENET : An Autonomous De-Fi Agent
 
 
 TENET is a Decentralized Finance AI Agent redefining the frontier of Financial Innovation with intersection of Artificial Intelligence and Decentralized Finance on Solana. Crafted for the 2024 Solana AI Hackathon, TENET seamlessly blends AI Capabilities with Decentralized Finance to create optimal solutions for automated yields across protocols, establishing a new paradigm in the decentralized future of financial management using AI.
